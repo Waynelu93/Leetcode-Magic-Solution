@@ -1,0 +1,1 @@
+This folder contains some fancy ways to shorten your python code.
